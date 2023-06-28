@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DeductiveR"]
 	path = DeductiveR
 	url = https://github.com/alobondo/deductiver
-	shallow = true
-	registered = true
