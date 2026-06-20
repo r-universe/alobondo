@@ -8,6 +8,9 @@
 [submodule "MCTrend"]
 	path = MCTrend
 	url = https://github.com/alobondo/mctrend
+[submodule "Time.R"]
+	path = Time.R
+	url = https://github.com/alobondo/time.r
 [submodule "hydroDCindex"]
 	path = hydroDCindex
 	url = https://github.com/alobondo/hydrodcindex
